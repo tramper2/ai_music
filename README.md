@@ -1,36 +1,36 @@
-# 【Magenta+Colab】AIによる作曲を学ぼう！
-「AIによる作曲を学ぼう！」は、人工知能（AI）を使った作曲方法を学ぶ講座です。  
-Magentaというライブラリを使い、Google Colaboratory環境でAI作曲のコードを記述します。   
+# [Magenta+Colab] AI에 의한 작곡을 배우자!
+AI 작곡을 배우자!는 인공지능(AI)을 이용한 작곡 방법을 배우는 강좌입니다.
+Magenta라고 하는 라이브러리를 사용하고 구글 Colaboratory 환경에서 AI 작곡 코드를 기술합니다.
 
-Section1. AIによる作曲の概要  
-→ AIによる作曲の概要、開発環境、使用するライブラリについて学びます。
+Section 1. AI에 의한 작곡 개요
+→ AI를 통한 작곡 개요, 개발 환경, 사용하는 라이브러리에 대해 학습합니다.
 
-Section2. シンプルな曲を作ろう！  
-→ AIを使ってシンプルな曲を作り、AIによる作曲に慣れていきます。
+Section 2. 심플한 곡을 만들자!
+→ AI를 사용하여 심플한 곡을 만들고 AI에 의한 작곡에 익숙해져 갑니다.
 
-Section3. 「RNN」による作曲  
-→ 再帰型ニューラルネットワーク（RNN）を使った作曲について学びます。
+Section 3. 'RNN'에 의한 작곡
+→ 재귀형 뉴럴 네트워크(RNN)를 사용한 작곡에 대해 학습합니다.
 
-Section4. 「生成モデル（GAN、VAE）」による作曲  
-→ GAN、VAEなどを使い、曲のデータを生成する方法を学びます。
+Section 4. '생성 모델(GAN, VAE)'에 의한 작곡
+→ GAN, VAE 등을 사용하여 곡 데이터를 생성하는 방법을 학습합니다.
 
-Section5. 「Music Transformer」の利用  
-→ 自動作曲AI 「Music Transformer」を使い、Transformerによる楽曲の生成を行います。
+Section 5. 'Music Transformer' 이용
+→ 자동 작곡 AI 'Music Transformer'를 사용하여 Transformer를 통한 악곡을 생성합니다.
 
-Udemyコース: [【Magenta+Colab】AIによる作曲を学ぼう！](https://www.udemy.com/course/ai-music/?referralCode=7AC2C2511A119CCD009D)
+Udemy 코스 : [[Magenta+Colab] AI에 의한 작곡을 배우자!](https://www.udemy.com/course/ai-music/?referral Code=7AC2C2511A119CCD009D)
 
-### 自由研究室 AIRS-Lab（コミュニティ）
-「AI」をテーマに交流し、創造するWeb上のコミュニティです。  
-https://www.airs-lab.jp/  
-  
-### News! AIRS-Lab（メルマガ）
-AIの話題、講義動画、Udemyコース割引などのAIRS-Lab最新コンテンツをメールで配信します。  
-https://www.airs-lab.jp/newsletter  
-  
-### AI教室 AIRS-Lab（YouTubeチャンネル）
-毎週月曜日21時に、YouTubeでライブ講義を開催しています。  
-https://www.youtube.com/channel/UCT_HwlT8bgYrpKrEvw0jH7Q  
-  
-### Udemyコース
-オンライン動画学習プラットフォームUdemyで、AI関連のコースを複数展開しています。  
-https://www.airs-lab.jp/lectures  
+### 자유연구실 AIRS-Lab(커뮤니티)
+AI를 주제로 교류하고 창조하는 웹 커뮤니티입니다.
+https://www.airs-lab.jp/
+
+### News! AIRS-Lab (메르마가)
+AI 화제, 강의 동영상, Udemy 코스 할인 등의 AIRS-Lab 최신 콘텐츠를 메일로 전달합니다.
+https://www.airs-lab.jp/newsletter
+
+### AI교실 AIRS-Lab (YouTube 채널)
+매주 월요일 21시에 유튜브에서 라이브 강의를 개최하고 있습니다.
+https://www.youtube.com/channel/UCT_HwlT8bgYrpKrEvw0jH7Q
+
+### Udemy 코스
+온라인 동영상 학습 플랫폼 Udemy에서 AI 관련 과정을 여러 개 전개하고 있습니다.
+https://www.airs-lab.jp/lectures
